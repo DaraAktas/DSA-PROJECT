@@ -9,7 +9,7 @@ I have gathered my data from two main sources:
  - BiTaksi Usage Data: I contacted bitaxi consumer services and got my ride history in csv format. This data contains information about the date, time, and cost of my rides, along with pickup and drop-off locations.
  - Academic Schedule: My academic schedule was extracted from my university's course management system. It includes the course name, time slots, and location of my lectures.I preprocessed the raw data into a json file. 
 
-### Tools
+## Tools
 
  - **[Jupyter Notebook](https://jupyter.org/):** I will use jupyter for coding notebook and processing.  
  - **[Pandas](https://pandas.pydata.org/):** I will use pandas libraries for data cleaning, filtering, and structuring.  
