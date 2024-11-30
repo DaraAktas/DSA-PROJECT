@@ -4,10 +4,13 @@ Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Ter
 ## Motivation
 While planning my project, I realized that I could explore a pattern between my transportation and my academic schedule. As BiTaksi is one of my primary method of transportation, I decided to focus on analyzing its usage. The motivation behind this analysis is to show if my taxi usage is influenced by my lecture times, workload,,exams and overall schedule. By examining trends such as the time of the rides, frequency during specific weeks, and peak usage periods, I aim to show if there is any relation between my taxi usage and University chedule
 
+## Research question
+Is there a relationship between my BiTaksi usage and my academic schedule, such as lecture times, workload, and exam periods?
+
 ## Data Source
 I have gathered my data from two main sources:
  - BiTaksi Usage Data: I contacted bitaxi consumer services and got my ride history in csv format. This data contains information about the date, time, and cost of my rides, along with pickup and drop-off locations.
- - Academic Schedule: My academic schedule was extracted from my university's course management system. It includes the course name, time slots, and location of my lectures.I preprocessed the raw data into a json file. 
+ - Academic Schedule: My academic schedule was extracted from my university's course management system. It includes the course name, time slots, and location of my lectures.I preprocessed the raw data into a json file
 
 ## Tools
 
