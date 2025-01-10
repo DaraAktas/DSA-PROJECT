@@ -69,5 +69,12 @@ The analysis will proceed through the following stages to investigate the relati
 
 
 ## Limitations
-
+###	1.	Limited Dataset Size
+ - The analysis is based on a relatively small dataset, which may not fully represent broader trends or rare occurrences.
+###	2.	Time Constraints
+ - The analysis is tied to a specific time period, which might not reflect seasonal or long-term patterns.
+### 3. Other Types of transportation
+ - There can be other types of transportations from time to time such as friends and bus.
 ## Future work
+
+
