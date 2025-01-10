@@ -1,0 +1,147 @@
+{
+    "Monday": [
+        {
+            "time": "8:40 am-9:30 am",
+            "course": "CS 303-A",
+            "section": "10119",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "1:40 pm-2:30 pm",
+            "course": "MATH 306R-E",
+            "section": "10924",
+            "type": "Class",
+            "location": "FENS L061"
+        },
+        {
+            "time": "2:40 pm-3:30 pm",
+            "course": "FIN 301-0",
+            "section": "10429",
+            "type": "Class",
+            "location": "FASS G018"
+        },
+        {
+            "time": "3:40 pm-5:30 pm",
+            "course": "CS 204-A",
+            "section": "10218",
+            "type": "Class",
+            "location": "UC G030"
+        }
+    ],
+    "Tuesday": [
+        {
+            "time": "12:40 pm-2:30 pm",
+            "course": "DSA 210R-C",
+            "section": "12659",
+            "type": "Class",
+            "location": "FENS G035"
+        },
+        {
+            "time": "2:40 pm-3:30 pm",
+            "course": "MATH 204-0",
+            "section": "10902",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "3:40 pm-5:30 pm",
+            "course": "FIN 301-0",
+            "section": "10429",
+            "type": "Class",
+            "location": "FASS G018"
+        }
+    ],
+    "Wednesday": [
+        {
+            "time": "8:40 am-10:30 am",
+            "course": "MATH 306-0",
+            "section": "10917",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "12:40 pm-1:30 pm",
+            "course": "CS 204-A",
+            "section": "10218",
+            "type": "Class",
+            "location": "UC G030"
+        },
+        {
+            "time": "4:40 pm-6:30 pm",
+            "course": "CS 303L-E1",
+            "section": "10127",
+            "type": "Class",
+            "location": "FENS 1033"
+        }
+    ],
+    "Thursday": [
+        {
+            "time": "10:40 am-12:30 pm",
+            "course": "MATH 204-0",
+            "section": "10902",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "12:40 pm-2:30 pm",
+            "course": "CS 303-A",
+            "section": "10119",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "2:40 pm-3:30 pm",
+            "course": "DSA 210-B",
+            "section": "12656",
+            "type": "Class",
+            "location": "FASS G062"
+        },
+        {
+            "time": "4:40 pm-5:30 pm",
+            "course": "CS 303R-B",
+            "section": "12547",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "5:40 pm-6:30 pm",
+            "course": "MATH 204R-A3",
+            "section": "10906",
+            "type": "Class",
+            "location": "FASS 1098"
+        }
+    ],
+    "Friday": [
+        {
+            "time": "8:40 am-9:30 am",
+            "course": "MATH 306-0",
+            "section": "10917",
+            "type": "Class",
+            "location": "FENS G077"
+        },
+        {
+            "time": "9:40 am-11:30 am",
+            "course": "DSA 210-B",
+            "section": "12656",
+            "type": "Class",
+            "location": "FASS G062"
+        },
+        {
+            "time": "12:40 pm-2:30 pm",
+            "course": "CS 204L-B3",
+            "section": "12535",
+            "type": "Class",
+            "location": "FASS 1103"
+        },
+        {
+            "time": "4:40 pm-5:30 pm",
+            "course": "FIN 301R-0",
+            "section": "10432",
+            "type": "Class",
+            "location": "FASS G018"
+        }
+    ],
+    "Saturday": [],
+    "Sunday": []
+}
