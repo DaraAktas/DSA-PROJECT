@@ -6,11 +6,11 @@ Final Report:
 ## Table of Contents
 **[Motivation](#motivation)**  
 
-**[Tools](#tools)**  
-
 **[Research question](#research-question)**  
 
 **[Data Source](#data-source)**  
+
+**[Tools](#tools)**  
 
 **[Data Analysis](#data-analysis)**
 
@@ -55,3 +55,10 @@ The analysis will proceed through the following stages to investigate the relati
  - Examining  hours to determine the most common times for rides.
  - Considering usage around exams.
 
+## Findings
+
+
+
+## Limitations
+
+## Future work
