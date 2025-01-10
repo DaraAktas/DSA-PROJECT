@@ -1,6 +1,25 @@
 # DSA-PROJECT
 ## Description
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on relation between my own bitaksi usage and academic schedule.
+Final Report: 
+
+## Table of Contents
+**[Motivation](#motivation)**  
+
+**[Tools](#tools)**  
+
+**[Research question](#research-question)**  
+
+**[Data Source](#data-source)**  
+
+**[Data Analysis](#data-analysis)**
+
+**[Findings](#findings)**
+
+**[Limitations](#limitations)**  
+
+**[Future Work](#future-work)**  
+
 ## Motivation
 While planning my project, I realized that I could explore a pattern between my transportation and my academic schedule. As BiTaksi is one of my primary method of transportation, I decided to focus on analyzing its usage. The motivation behind this analysis is to show if my taxi usage is influenced by my lecture times, workload,,exams and overall schedule. By examining trends such as the time of the rides, frequency during specific weeks, and peak usage periods, I aim to show if there is any relation between my taxi usage and University chedule
 
