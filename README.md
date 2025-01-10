@@ -1,7 +1,8 @@
 # DSA-PROJECT
 ## Description
 Sabanci University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project. This project will be an analysis on relation between my own bitaksi usage and academic schedule.
-Final Report: 
+
+[Final Report](./Final%20Report/DSAPROJECTPPT.pptx) 
 
 ## Table of Contents
 **[Motivation](#motivation)**  
