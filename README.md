@@ -24,7 +24,7 @@ Final Report:
 While planning my project, I realized that I could explore a pattern between my transportation and my academic schedule. As BiTaksi is one of my primary method of transportation, I decided to focus on analyzing its usage. The motivation behind this analysis is to show if my taxi usage is influenced by my lecture times, workload,,exams and overall schedule. By examining trends such as the time of the rides, frequency during specific weeks, and peak usage periods, I aim to show if there is any relation between my taxi usage and University chedule
 
 ## Research question
-Is there a relationship between my BiTaksi usage and my academic schedule, such as lecture times, workload, and exam periods?
+Is there a relationship between my BiTaksi usage and my academic schedule, such as lecture times and workload?
 
 ## Data Source
 I have gathered my data from two main sources:
