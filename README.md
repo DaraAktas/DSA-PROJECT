@@ -56,7 +56,16 @@ The analysis will proceed through the following stages to investigate the relati
  - Considering usage around exams.
 
 ## Findings
-
+###	1.Frequent Destinations
+ - The most common destinations are “Orta Mah., Üniversite Cad., Tuzla” , which is the location of my University.
+###	2.Activity Peaks
+ - Travel activity is highest on Wednesday and Saturday, while Sunday shows lower usage; week days are more active.
+###	3.Time Alignment
+ - Taxi usage aligns closely with academic schedules, particularly in the afternoon (1 PM–3 PM), reflecting a strong time correlation.
+###	4.Class vs. Taxi Usage
+ - Class activities are mostly in the morning and early afternoon, while taxi usage spans a broader range, including evenings.
+###	5.Key Location Impact
+ - “Orta Mah., Cengizhan Cad., Tuzla” is a significant location, contributing a large share of overall trips.
 
 
 ## Limitations
