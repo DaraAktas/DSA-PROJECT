@@ -77,6 +77,8 @@ The analysis will proceed through the following stages to investigate the relati
  - There can be other types of transportations from time to time such as friends and bus.
 ## Future work
 **Longterm Analysis:** Since data is on my usage of bitaxi, the analysis can be updated with newer data over a more extended period to observe changes.
+
 **Other Transportations:** I used only bitaxi data but in real life i use other transportations like tiktak, car, bus i can add them to the dataset.
+
 **Exam Periods:** i can add my final periods and use that data for more diversity since final period can be verry different than normal times.
 
